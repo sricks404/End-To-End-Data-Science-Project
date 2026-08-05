@@ -1,12 +1,5 @@
 # Student Performance Prediction
 
-<b>Acknowledgements</b>
----
-I would like to extend my sincere thanks to  [Krish Naik](https://www.linkedin.com/in/naikkrish/) for his invaluable content and guidance, which helped me build this project. This project wouldn't have been possible without his educational resources.
-
-<br>
-<br>
-
 <b>About the Project</b>
 ---
 This project predicts a student's **Math Score** based on the following inputs:
